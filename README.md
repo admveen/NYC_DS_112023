@@ -1,4 +1,4 @@
-# NYC Data Science April 24 Cohort
+# NYC Data Science November 20 Cohort
 
 
 This repository contains all lectures for the April 24th 2023 Data Science Cohort.
